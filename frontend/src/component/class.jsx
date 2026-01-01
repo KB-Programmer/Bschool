@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Logout = () => {
+const Class = () => {
      return (
           <div>
-               This is Logout Component
+               This is Class Component
           </div>
      );
 }
 
-export default Logout;
+export default Class;

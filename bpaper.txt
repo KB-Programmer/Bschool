@@ -1,0 +1,14 @@
+
+#Color Palettes
+
+Primary: #3B82F6 (Blue 500)
+
+Secondary: #06B6D4 (Cyan 500)
+
+Background: #F8FAFC
+
+Surface: #FFFFFF
+
+Text: #1E293B
+
+Muted: #94A3B8
